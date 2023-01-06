@@ -27,3 +27,6 @@ Then press `Run` button (triangle button in the top middle of page) and wait for
 
 After build will be ready, your simulator needs to be open automatically and application will be opened as well.
     
+
+<img width="405" alt="Screen Shot 2023-01-07 at 03 01 47" src="https://user-images.githubusercontent.com/87094141/211114098-d038b6ff-ad9e-4fcc-b50b-95ca872b454e.png">
+
